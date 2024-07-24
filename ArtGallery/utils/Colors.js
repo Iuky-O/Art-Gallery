@@ -6,5 +6,7 @@ export default{
     Marrom: '#b7671e',
     Marrom_Escuro: '#4f0a04',
     Preto: '#000000',
-    Branco: '#ffffff'
+    Branco: '#ffffff',
+    Marrom_Cafe: '#e4c4a7',
+    Marrom_Laranja: '#a43c0c'
 }
